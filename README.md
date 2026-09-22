@@ -1,0 +1,2 @@
+# AtividadesSimplesJS
+Projetinho simples verificador
